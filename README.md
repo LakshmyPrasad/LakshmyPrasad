@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LakshmyPrasad
-- 👀 I’m interested in Data Analytics/Data Science
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lakshmyprasad01@gmail.com
